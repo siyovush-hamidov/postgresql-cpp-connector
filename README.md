@@ -2,7 +2,7 @@ Sure! Here’s a fun and engaging description for your GitHub repository:
 
 ---
 
-# 🏙️ PostgreSQL C++ Connector: 🌆
+# 🏙️ PostgreSQL C++ Connector 🌆
 
 Welcome to **PostgreSQL with C++: City Explorer**! 🚀 This project showcases a simple yet powerful example of how to connect a C++ application to a PostgreSQL database using the `libpqxx` library. With this project, you can explore the 10 largest cities in the USA right from your terminal! 🌎
 
