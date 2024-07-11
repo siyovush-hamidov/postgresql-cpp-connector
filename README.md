@@ -29,7 +29,7 @@ Welcome to **PostgreSQL with C++: City Explorer**! 🚀 This project showcases a
 
 3. **Compile the Code** 🛠️:
    ```bash
-   g++ -std=c++11 main.cpp PostgresDB.cpp -o city_explorer `pkg-config --cflags --libs libpqxx`
+   g++ -std=c++11 main.cpp PostgresDB.cpp -o connector `pkg-config --cflags --libs libpqxx`
    ```
 
 4. **Run the Program** ▶️:
