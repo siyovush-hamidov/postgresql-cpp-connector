@@ -19,7 +19,7 @@ Welcome to **PostgreSQL with C++: City Explorer**! 🚀 This project showcases a
 
 1. **Clone the Repository** 🧩:
    ```bash
-   git clone https://github.com/siyovush-hamidov/postgresql-cpp-city-explorer.git
+   git clone https://github.com/siyovush-hamidov/postgresql-cpp-connector.git
    cd postgresql-cpp-city-explorer
    ```
 
